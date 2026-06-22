@@ -1,4 +1,4 @@
-// First C++ Program
+// first C++ Program
 
 #include <iostream>
 using namespace std;
@@ -10,7 +10,7 @@ int main(){
 
 
 
-// Single line comment
+// single line comment
 #include <iostream>
 using namespace std;
 
@@ -22,7 +22,7 @@ int main(){
 
 
 
-// Multi-line comment
+// multi-line comment
 #include <iostream>
 using namespace std;
 
