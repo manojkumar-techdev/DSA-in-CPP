@@ -1,3 +1,5 @@
+// This topic includes the basics of C++.
+
 // First topic......
 // first C++ Program
 
